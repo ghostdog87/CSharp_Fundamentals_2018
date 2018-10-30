@@ -1,0 +1,11 @@
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\bin\Debug\netcoreapp2.1\03. Miner.deps.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\bin\Debug\netcoreapp2.1\03. Miner.runtimeconfig.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\bin\Debug\netcoreapp2.1\03. Miner.runtimeconfig.dev.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\bin\Debug\netcoreapp2.1\03. Miner.dll
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\bin\Debug\netcoreapp2.1\03. Miner.pdb
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\obj\Debug\netcoreapp2.1\03. Miner.csprojAssemblyReference.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\obj\Debug\netcoreapp2.1\03. Miner.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\obj\Debug\netcoreapp2.1\03. Miner.AssemblyInfoInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\obj\Debug\netcoreapp2.1\03. Miner.AssemblyInfo.cs
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\obj\Debug\netcoreapp2.1\03. Miner.dll
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam 181014\03. Miner\obj\Debug\netcoreapp2.1\03. Miner.pdb

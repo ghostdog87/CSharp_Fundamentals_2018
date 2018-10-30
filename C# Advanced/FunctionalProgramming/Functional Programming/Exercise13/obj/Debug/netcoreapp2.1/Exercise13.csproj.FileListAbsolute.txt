@@ -1,0 +1,11 @@
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\bin\Debug\netcoreapp2.1\Exercise13.deps.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\bin\Debug\netcoreapp2.1\Exercise13.runtimeconfig.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\bin\Debug\netcoreapp2.1\Exercise13.runtimeconfig.dev.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\bin\Debug\netcoreapp2.1\Exercise13.dll
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\bin\Debug\netcoreapp2.1\Exercise13.pdb
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\obj\Debug\netcoreapp2.1\Exercise13.csprojAssemblyReference.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\obj\Debug\netcoreapp2.1\Exercise13.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\obj\Debug\netcoreapp2.1\Exercise13.AssemblyInfoInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\obj\Debug\netcoreapp2.1\Exercise13.AssemblyInfo.cs
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\obj\Debug\netcoreapp2.1\Exercise13.dll
+D:\Softuni\C# Fundamentals 2018\C# Advanced\FunctionalProgramming\Functional Programming\Exercise13\obj\Debug\netcoreapp2.1\Exercise13.pdb

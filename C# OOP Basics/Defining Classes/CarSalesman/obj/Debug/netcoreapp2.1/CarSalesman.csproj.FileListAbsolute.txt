@@ -1,0 +1,11 @@
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csprojAssemblyReference.cache
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb

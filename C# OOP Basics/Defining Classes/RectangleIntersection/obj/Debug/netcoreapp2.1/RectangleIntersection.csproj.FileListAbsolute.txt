@@ -1,0 +1,11 @@
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.deps.json
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.runtimeconfig.json
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.runtimeconfig.dev.json
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.dll
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.pdb
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.csprojAssemblyReference.cache
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.AssemblyInfoInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.AssemblyInfo.cs
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.dll
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.pdb

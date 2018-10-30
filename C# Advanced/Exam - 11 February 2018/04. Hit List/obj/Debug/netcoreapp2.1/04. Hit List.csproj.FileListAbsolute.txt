@@ -1,0 +1,11 @@
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.deps.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.runtimeconfig.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.runtimeconfig.dev.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.dll
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.1\04. Hit List.pdb
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.csprojAssemblyReference.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.AssemblyInfoInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.AssemblyInfo.cs
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.dll
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.1\04. Hit List.pdb

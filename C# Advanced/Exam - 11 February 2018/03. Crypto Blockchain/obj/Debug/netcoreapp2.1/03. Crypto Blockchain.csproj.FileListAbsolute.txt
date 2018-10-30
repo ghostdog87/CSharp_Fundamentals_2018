@@ -1,0 +1,11 @@
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.1\03. Crypto Blockchain.deps.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.1\03. Crypto Blockchain.runtimeconfig.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.1\03. Crypto Blockchain.runtimeconfig.dev.json
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.1\03. Crypto Blockchain.dll
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.1\03. Crypto Blockchain.pdb
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.1\03. Crypto Blockchain.csprojAssemblyReference.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.1\03. Crypto Blockchain.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.1\03. Crypto Blockchain.AssemblyInfoInputs.cache
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.1\03. Crypto Blockchain.AssemblyInfo.cs
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.1\03. Crypto Blockchain.dll
+D:\Softuni\C# Fundamentals 2018\C# Advanced\Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.1\03. Crypto Blockchain.pdb
