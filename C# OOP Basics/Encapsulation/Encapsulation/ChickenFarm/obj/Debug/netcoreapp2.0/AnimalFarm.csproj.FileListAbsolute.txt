@@ -8,3 +8,4 @@ D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\Chicke
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\ChickenFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfo.cs
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\ChickenFarm\obj\Debug\netcoreapp2.0\AnimalFarm.dll
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\ChickenFarm\obj\Debug\netcoreapp2.0\AnimalFarm.pdb
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\ChickenFarm\obj\Debug\netcoreapp2.0\AnimalFarm.csprojAssemblyReference.cache

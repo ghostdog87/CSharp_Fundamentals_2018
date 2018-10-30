@@ -8,4 +8,3 @@ D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\Class 
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\Class Box\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfo.cs
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\Class Box\obj\Debug\netcoreapp2.1\ClassBox.dll
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\Class Box\obj\Debug\netcoreapp2.1\ClassBox.pdb
-D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\Class Box\obj\Debug\netcoreapp2.1\ClassBox.csprojAssemblyReference.cache

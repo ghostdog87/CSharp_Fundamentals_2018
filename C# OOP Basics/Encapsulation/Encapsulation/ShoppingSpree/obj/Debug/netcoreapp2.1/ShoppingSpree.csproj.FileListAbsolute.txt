@@ -8,3 +8,4 @@ D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\Shoppi
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.AssemblyInfo.cs
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.dll
 D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.pdb
+D:\Softuni\C# Fundamentals 2018\C# OOP Basics\Encapsulation\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp2.1\ShoppingSpree.csprojAssemblyReference.cache
