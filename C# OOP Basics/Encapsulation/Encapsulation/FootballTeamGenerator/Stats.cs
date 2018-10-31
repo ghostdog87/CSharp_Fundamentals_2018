@@ -21,6 +21,7 @@ namespace FootballTeamGenerator
             Shooting = shooting;
         }
 
+
         public double Shooting
         {
             get { return shooting; }
@@ -28,8 +29,7 @@ namespace FootballTeamGenerator
             {
                 if (value < 0 || value > 100)
                 {
-                    Exception ex = new ArgumentException("Shooting should be between 0 and 100.");
-                    Console.WriteLine(ex.Message);
+                    throw new ArgumentException("Shooting should be between 0 and 100.");
                 }
                 shooting = value;
             }
@@ -42,8 +42,7 @@ namespace FootballTeamGenerator
             {
                 if (value < 0 || value > 100)
                 {
-                    Exception ex = new ArgumentException("Passing should be between 0 and 100.");
-                    Console.WriteLine(ex.Message);
+                    throw new ArgumentException("Passing should be between 0 and 100.");
                 }
                 passing = value;
             }
@@ -56,8 +55,7 @@ namespace FootballTeamGenerator
             {
                 if (value < 0 || value > 100)
                 {
-                    Exception ex = new ArgumentException("Dribble should be between 0 and 100.");
-                    Console.WriteLine(ex.Message);
+                    throw new ArgumentException("Dribble should be between 0 and 100.");
                 }
                 dribble = value;
             }
@@ -70,8 +68,7 @@ namespace FootballTeamGenerator
             {
                 if (value < 0 || value > 100)
                 {
-                    Exception ex = new ArgumentException("Sprint should be between 0 and 100.");
-                    Console.WriteLine(ex.Message);
+                    throw new ArgumentException("Sprint should be between 0 and 100.");
                 }
                 sprint = value;
             }
@@ -84,8 +81,7 @@ namespace FootballTeamGenerator
             {
                 if (value < 0 || value > 100)
                 {
-                    Exception ex = new ArgumentException("Endurance should be between 0 and 100.");
-                    Console.WriteLine(ex.Message);
+                    throw new ArgumentException("Endurance should be between 0 and 100.");
                 }
                 endurance = value;
             }

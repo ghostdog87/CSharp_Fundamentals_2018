@@ -36,6 +36,7 @@ namespace FootballTeamGenerator
         }
 
 
+
         public double AveragePlayerStats()
         {
             return (stats.Dribble + stats.Endurance + stats.Passing + stats.Shooting + stats.Sprint) / 5;

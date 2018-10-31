@@ -14,7 +14,7 @@ namespace FootballTeamGenerator
 
             while (input != "END")
             {
-            string[] currentInput = input.Split(";",StringSplitOptions.RemoveEmptyEntries);
+                string[] currentInput = input.Split(";",StringSplitOptions.RemoveEmptyEntries);
 
                 
                 if (currentInput[0] == "Team")
@@ -34,14 +34,22 @@ namespace FootballTeamGenerator
                     if (teams.Any(x => x.Name == teamName))
                     {
                         Team team = teams.FirstOrDefault(x => x.Name == teamName);
-                        Stats playerStats = new Stats(stats1, stats2, stats3, stats4, stats5);
-                        Player player = new Player(playerName, playerStats);
-                        team.AddPlayer(player);
+
+                        try
+                        {
+                            Stats playerStats = new Stats(stats1, stats2, stats3, stats4, stats5);
+                            Player player = new Player(playerName, playerStats);
+                            team.AddPlayer(player);
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine(ex.Message);
+                        }
+                        
                     }
                     else
                     {
-                        Exception ex = new ArgumentException($"Team {teamName} does not exist.");
-                        Console.WriteLine(ex.Message);
+                        Console.WriteLine($"Team {teamName} does not exist.");
                     }
                         
                 }
@@ -69,8 +77,7 @@ namespace FootballTeamGenerator
                     }
                     else
                     {
-                        Exception ex = new ArgumentException($"Team {teamName} does not exist.");
-                        Console.WriteLine(ex.Message);
+                        Console.WriteLine($"Team {teamName} does not exist.");
                     }
                 }
 
